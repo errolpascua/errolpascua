@@ -16,5 +16,5 @@ Embedded firmware engineer with 4 years building cryptographic drivers and secur
 
 **Note:** Most professional work lives on internal Bitbucket. Public repos here are personal projects and tooling.
 
-📍 Chandler, AZ · Open to embedded security and firmware roles in the Phoenix metro area  
+📍 Chandler, AZ · Open to embedded security and firmware roles — Phoenix metro preferred, open to relocation for the right opportunity
 🌐 [errolpascua.com](https://errolpascua.com) · [LinkedIn](https://linkedin.com/in/errol-pascua)
